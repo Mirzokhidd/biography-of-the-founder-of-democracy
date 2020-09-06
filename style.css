@@ -1,0 +1,118 @@
+body {
+    background-color: #555555;
+}
+
+h1 {
+    color: 	#F0E68C;
+    border: none;
+    padding: 5px;
+    position: absolute;
+    left: 480px;
+}
+
+h1:hover {
+    text-shadow:
+    -1.5px -1.5px 0 #000,
+    1.5px -1.5px 0  #000,
+    -1.5px 1.5px 0  #000,
+    1.5px 1.5px 0  #000;
+}
+
+img {
+    position: fixed;
+    top: 200px;
+}
+
+h3 {
+    font-size: 20px;
+    position: fixed;
+    top: 450px;
+    color: 	#F0E68C;
+    border: none;
+}
+
+h3:hover {
+    text-shadow:
+    -1.5px -1.5px 0 #000,
+    1.5px -1.5px 0  #000,
+    -1.5px 1.5px 0  #000,
+    1.5px 1.5px 0  #000;
+}
+
+h1:hover {
+    text-shadow:
+    -1.5px -1.5px 0 #000,
+    1.5px -1.5px 0  #000,
+    -1.5px 1.5px 0  #000,
+    1.5px 1.5px 0  #000;
+}
+
+.statue:hover {
+    box-shadow:
+    -1.5px -1.5px 0 #000,
+    1.5px -1.5px 0  #000,
+    -1.5px 1.5px 0  #000,
+    1.5px 1.5px 0  #000;
+}
+
+.vase:hover {
+    box-shadow:
+    -1.5px -1.5px 0 #000,
+    1.5px -1.5px 0  #000,
+    -1.5px 1.5px 0  #000,
+    1.5px 1.5px 0  #000;
+}
+
+#statue {
+    display: none;
+    bordeR: 4px solid black;
+    width: 1200px;
+    height: 500px;
+    position: absolute;
+    left: 150px;
+    top: 150px;
+    background-color:#555555;
+}
+
+.cancel {
+    display: relative;
+    content: 'x';
+    color: #fff;
+    font-weight: 300;
+    font-size: 20px;
+    color: red;
+    padding: 10px;
+}
+
+.cancel:hover {
+    text-shadow:
+    -1.5px -1.5px 0 #000,
+    1.5px -1.5px 0  #000,
+    -1.5px 1.5px 0  #000,
+    1.5px 1.5px 0  #000;
+}
+
+.passageOne {
+    color: #7DF9FF;
+    padding: 10px;
+    font-size: 25px;
+}
+
+
+#vase {
+    display: none;
+    bordeR: 4px solid black;
+    width: 1200px;
+    height: 1750px;
+    position: absolute;
+    left: 150px;
+    top: 150px;
+    background-color:#555555;
+}
+
+.passageTwo {
+    margin: 10px; 
+    color: #7DF9FF;
+    padding: 10px;
+    font-size: 25px;
+}
